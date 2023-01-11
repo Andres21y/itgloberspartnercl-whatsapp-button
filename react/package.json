@@ -20,7 +20,10 @@
     "@vtex/tsconfig": "^0.4.4",
     "apollo-cache-inmemory": "^1.6.5",
     "graphql": "^14.6.0",
+<<<<<<< HEAD
     "prop-types": "^15.8.1",
+=======
+>>>>>>> 5f2a8bb7303e067596c5cecf4340fce9326d19f9
     "typescript": "3.9.7"
   }
 }
